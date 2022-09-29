@@ -1,15 +1,14 @@
 <template>
     <section>
         <Main/>
-         <router-view>   </router-view>
     </section>
 </template>
 
 <script>
-import Main from "../components/Main.vue"
-
+import Main from "../components/Main.vue";
 export default {
-      components: { Main }
+    name: "Home",
+    components: { Main }
 }
 </script>
 
