@@ -17,7 +17,7 @@
 </head>
 <body>
 
-    LISTA POST:
+    
     <div id="root">
        
     </div>
